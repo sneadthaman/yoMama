@@ -1,2 +1,2 @@
 # yoMama
-Codecademy Project - Randomly outputs a Yo Mama jokes
+Codecademy Project - Randomly outputs a Yo Mama joke
